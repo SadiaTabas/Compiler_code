@@ -1,0 +1,5 @@
+myVariable
+2ndVariable
+_temp
+var@123
+END
