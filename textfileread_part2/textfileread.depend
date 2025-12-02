@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764656127 source:f:\8th sem\compiler\mid\lab\lab2\textfileread\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
